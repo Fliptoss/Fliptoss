@@ -11,10 +11,8 @@ I'm a researcher and practitioner exploring the frontiers of artificial intellig
 # 📊 GitHub Stats:
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Fliptoss&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Fliptoss&theme=dark&hide_border=false" width="48%" />
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fliptoss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://nirzak-streak-stats.vercel.app/?user=Fliptoss&theme=dark&hide_border=false&background=000000" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fliptoss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=000000" width="48%" />
 
 </div>
 
