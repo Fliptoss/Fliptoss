@@ -10,8 +10,6 @@ I'm a researcher and practitioner exploring the frontiers of artificial intellig
 
 # 📊 GitHub Stats:
 <div align="center">
-  
-| | |
 |:-------------------------:|:-------------------------:|
 | <img src="https://nirzak-streak-stats.vercel.app/?user=Fliptoss&theme=dark&hide_border=false&background=000000" width="100%"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fliptoss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=000000" width="100%"/> |
 
@@ -24,5 +22,4 @@ I'm a researcher and practitioner exploring the frontiers of artificial intellig
 [![](https://visitcount.itsvg.in/api?id=Fliptoss&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
