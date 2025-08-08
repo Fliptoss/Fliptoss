@@ -18,12 +18,6 @@ I'm a researcher and practitioner exploring the frontiers of artificial intellig
 
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=Fliptoss&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
 
 <div align="center">
   
